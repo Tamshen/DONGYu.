@@ -1,6 +1,8 @@
 # DONGYu.
 DONGYu. Site source code.
 
+关于句子调用，请参考下方的API。
+
 # Effect 
 
 
