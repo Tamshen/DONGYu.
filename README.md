@@ -2,6 +2,7 @@
 DONGYu. Site source code
 
 **Design：DONGYu**
+
 **API：hitokoto.cn**
 
 ![demo][1]
