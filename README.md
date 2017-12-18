@@ -1,9 +1,5 @@
 # DONGYu.
-DONGYu. Site source code
-
-**Design：DONGYu**
-
-**API：hitokoto.cn**
+DONGYu. Site source code.
 
 # Effect 
 
@@ -12,7 +8,18 @@ DONGYu. Site source code
 
 ![demo][2]
 
+
+
+# 参考
+[print-literally][3] 
+
+
+
+# API
+[hitokoto.cn][4] 
+
+
   [1]: https://dongyu.site
   [2]: https://github.com/Tamshen/DONGYu./blob/master/demo.gif
-  
-
+  [3]: https://github.com/justforuse/justforuse.github.io/tree/master/print-literally
+  [4]: http://hitokoto.cn/api
