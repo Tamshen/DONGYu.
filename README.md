@@ -1,24 +1,22 @@
 # DONGYu.
 DONGYu. Site source code.
-
 关于句子调用，请参考下方的API。
 
 # Effect 
-
 
 去网站查看：[GO SITE][1] 
 
 ![demo][2]
 
+# API
+[hitokoto.cn][4] 
 
 
-# 参考
+# Reference
 [print-literally][3] 
 
 
 
-# API
-[hitokoto.cn][4] 
 
 
   [1]: https://dongyu.site
