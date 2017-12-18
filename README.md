@@ -5,7 +5,9 @@ DONGYu. Site source code
 
 **API：hitokoto.cn**
 
-# Effect [（去网站查看）][2] 
+# Effect 
+
+[（去网站查看）][2] 
 
 ![demo][1]
 
