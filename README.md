@@ -21,5 +21,5 @@ DONGYu. Site source code.
 
   [1]: https://dongyu.site
   [2]: https://github.com/Tamshen/DONGYu./blob/master/demo.gif
-  [3]: https://github.com/justforuse/justforuse.github.io/tree/master/print-literally
-  [4]: http://hitokoto.cn/api
+  [3]: https://github.com/justforuse/justforuse.github.io/tree/master/print-literally
+  [4]: http://hitokoto.cn/api
