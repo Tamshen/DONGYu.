@@ -7,7 +7,8 @@ DONGYu. Site source code
 
 # Effect 
 
-[（去网站查看）][2] 
+
+去网站查看：[GO SITE][2] 
 
 ![demo][1]
 
